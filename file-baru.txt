@@ -1,3 +1,2 @@
 ini file baru
 ini tambahan isi filenya
-ini baris ke-4 kalo ga salah
