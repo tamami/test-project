@@ -1,3 +1,4 @@
 ini file baru
 ini tambahan isi filenya
 update file-nya di branch testing
+fix bug selesai
